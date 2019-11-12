@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM jrei/systemd-ubuntu
+FROM jrei/systemd-ubuntu:16.04
 
 # Install.
 RUN \
