@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM ubuntu:xenial
+FROM jrei/systemd-ubuntu
 
 # Install.
 RUN \
